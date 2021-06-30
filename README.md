@@ -12,7 +12,7 @@ https://github.com/Ariel2802/Tarea1/blob/master/MiJSON.json
 ![img](https://github.com/Ariel2802/Tareaa3/blob/master/images/Usuario%20Con%20Privilegios.jpg)
 
 # Fragment Home
-![img](https://github.com/Ariel2802/Tareaa3/blob/master/images/Fragment%20Home.jpgg)
+![img](https://github.com/Ariel2802/Tareaa3/blob/master/images/Fragment%20Home.jpg)
 
 # Fragment Agregar
 ![img](https://github.com/Ariel2802/Tareaa3/blob/master/images/Fragment%20Agregar.jpg)
