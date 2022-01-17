@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void login() {
         JsonArrayRequest jsonRequest = new JsonArrayRequest(Request.Method.GET,
-                "https://raw.githubusercontent.com/Ariel2802/Tarea1/master/MiJSON.json",
+                "https://raw.githubusercontent.com/valeriadayanna/UI/master/db.json",
                 null, new com.android.volley.Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
@@ -85,8 +85,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         requestQueue.add(jsonRequest);
-
-        /* .baseUrl("https://revistas.uteq.edu.ec/ws/")*/
     }
 
     private void mostrarMensaje(String message) {
